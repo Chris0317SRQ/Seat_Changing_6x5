@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/45451908/133123462-54e5e60a-928d-4514-93af-6fd4f6528d4f.png)
 
 ## 操作
->[color=#00D9A1] 使用 RYG按鈕
+>[color=#00D9A1] 使用 RYBG按鈕
 
 ### R
 1. CSV Export
@@ -32,5 +32,9 @@
 ### G
 1. 抽籤
 2. 歸零
+
+## B
+1. Confirm
+2. Messages
 
 
