@@ -19,4 +19,7 @@
 ### b. 適合放於講桌的版本
 ![image](https://user-images.githubusercontent.com/45451908/133123462-54e5e60a-928d-4514-93af-6fd4f6528d4f.png)
 
+## 操作
+> 使用 RYG按鈕
+
 
