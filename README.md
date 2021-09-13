@@ -11,3 +11,11 @@
 
 ![image](https://user-images.githubusercontent.com/45451908/133122590-ea41eb07-cf7d-4320-b9f9-4454b382511c.png)
 
+## Export to CSV
+### a. 適合秀在電子白板或投影幕的版本
+![image](https://user-images.githubusercontent.com/45451908/133123195-b33f6f18-da05-4ee2-9745-364c5e577525.png)
+
+### b. 適合放於講桌的版本
+![image](https://user-images.githubusercontent.com/45451908/133123462-54e5e60a-928d-4514-93af-6fd4f6528d4f.png)
+
+
