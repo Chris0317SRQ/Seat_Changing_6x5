@@ -20,6 +20,17 @@
 ![image](https://user-images.githubusercontent.com/45451908/133123462-54e5e60a-928d-4514-93af-6fd4f6528d4f.png)
 
 ## 操作
-> 使用 RYG按鈕
+>[color=#00D9A1] 使用 RYG按鈕
+
+### R
+1. CSV Export
+2. CSV Import
+
+### Y
+1. 以time作為seed，random shuffle兩次
+2. Random base position-->加特定號碼，例如月份，依序排入
+### G
+1. 抽籤
+2. 歸零
 
 
