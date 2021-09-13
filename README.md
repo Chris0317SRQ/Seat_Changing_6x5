@@ -9,6 +9,7 @@
  - Random base position-->加特定號碼，例如月份，依序排入
 4. 另外指定位置，更改位置對應的號碼都沒問題
 
+## 抽籤且圖示座位位置
 ![image](https://user-images.githubusercontent.com/45451908/133122590-ea41eb07-cf7d-4320-b9f9-4454b382511c.png)
 
 ## Export to CSV
