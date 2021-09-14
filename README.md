@@ -2,12 +2,12 @@
 >Draw Straw, Random Change Seat, Export to CSV
 
 ## Author and contact information
->Name: 洪宇辰 Chris
->Email: hyuchen869@gmail.com
->Age: 18
->Job: 國家太空計畫 衛星實習工程師
->Projects: 玉山立方衛星計畫、以球型馬達實踐機構可重新配置機器人、AIoT War Machine、FRC: Lidar and its algorithms
->Competitions:
+- Name: 洪宇辰 Chris
+- Email: hyuchen869@gmail.com
+- Age: 18
+- Job: 國家太空計畫 衛星實習工程師
+- Projects: 玉山立方衛星計畫、以球型馬達實踐機構可重新配置機器人、AIoT War Machine、FRC: Lidar and its algorithms
+- Competitions:
 ![image](https://user-images.githubusercontent.com/45451908/133213859-775bcdec-db21-4828-96f5-2b1d653c2977.png)
 
 
@@ -24,11 +24,11 @@
 
 ## Export to CSV
 > **注意事項**
-> Seat-month().csv為讀入檔，請勿隨意更改檔名及移出資料夾
-> Print-month()-(time()).csv為適合放於講桌的檔案，可以隨意更改檔名及移出資料夾，但請勿改為Seat-month().csv形式
-> 原始設定為每個月月初換一次位置，可能因為放假或其他因素而調整，因此day()<15會輸出為該月的座位表，Ex:9/14,9/1
-> 若day()≥15則會輸出為下個月座位表
-> 檔案皆會存於 RandomSat Folder
+1. Seat-month().csv為讀入檔，請勿隨意更改檔名及移出資料夾
+2. Print-month()-(time()).csv為適合放於講桌的檔案，可以隨意更改檔名及移出資料夾，但請勿改為Seat-month().csv形式
+3. 原始設定為每個月月初換一次位置，可能因為放假或其他因素而調整，因此day()<15會輸出為該月的座位表，Ex:9/14,9/1
+4. 若day()≥15則會輸出為下個月座位表
+5. 檔案皆會存於 RandomSat Folder
 
 
 ### a. 適合秀在電子白板或投影幕的版本
