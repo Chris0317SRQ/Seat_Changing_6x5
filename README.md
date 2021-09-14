@@ -1,6 +1,14 @@
 # Seat_Changing_6x5
- Draw Straw, Random Change Seat, Export to CSV
- 
+>Draw Straw, Random Change Seat, Export to CSV
+
+## Author and contact information
+Name: 洪宇辰 Chris
+Email: hyuchen869@gmail.com
+Age: 18
+Job: 國家太空計畫 衛星實習工程師
+Projects: 玉山立方衛星計畫、以球型馬達實踐機構可重新配置機器人、AIoT War Machine、FRC: Lidar and its algorithms
+Competitions:
+
 ## Features
 1. 可以輸出成兩種方向排列的.csv，以時間為判斷基準自動匯入.csv，之後會加.txt記錄檔名
 2. 抽籤(Random Shuffle Vector twice)且可以圖示其座位位置
@@ -13,6 +21,14 @@
 ![image](https://user-images.githubusercontent.com/45451908/133122590-ea41eb07-cf7d-4320-b9f9-4454b382511c.png)
 
 ## Export to CSV
+> **注意事項**
+> Seat-month().csv為讀入檔，請勿隨意更改檔名及移出資料夾
+> Print-month()-(time()).csv為適合放於講桌的檔案，可以隨意更改檔名及移出資料夾，但請勿改為Seat-month().csv形式
+> 原始設定為每個月月初換一次位置，可能因為放假或其他因素而調整，因此day()<15會輸出為該月的座位表，Ex:9/14,9/1
+> 若day()≥15則會輸出為下個月座位表
+> 檔案皆會存於 RandomSat Folder
+
+
 ### a. 適合秀在電子白板或投影幕的版本
 ![image](https://user-images.githubusercontent.com/45451908/133123195-b33f6f18-da05-4ee2-9745-364c5e577525.png)
 
