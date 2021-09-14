@@ -2,12 +2,14 @@
 >Draw Straw, Random Change Seat, Export to CSV
 
 ## Author and contact information
-Name: 洪宇辰 Chris
-Email: hyuchen869@gmail.com
-Age: 18
-Job: 國家太空計畫 衛星實習工程師
-Projects: 玉山立方衛星計畫、以球型馬達實踐機構可重新配置機器人、AIoT War Machine、FRC: Lidar and its algorithms
-Competitions:
+>Name: 洪宇辰 Chris
+>Email: hyuchen869@gmail.com
+>Age: 18
+>Job: 國家太空計畫 衛星實習工程師
+>Projects: 玉山立方衛星計畫、以球型馬達實踐機構可重新配置機器人、AIoT War Machine、FRC: Lidar and its algorithms
+>Competitions:
+![image](https://user-images.githubusercontent.com/45451908/133213859-775bcdec-db21-4828-96f5-2b1d653c2977.png)
+
 
 ## Features
 1. 可以輸出成兩種方向排列的.csv，以時間為判斷基準自動匯入.csv，之後會加.txt記錄檔名
