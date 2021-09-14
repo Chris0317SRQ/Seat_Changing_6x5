@@ -1,6 +1,11 @@
 # Seat_Changing_6x5
 >Draw Straw, Random Change Seat, Export to CSV
 
+專案目的: 
+1. 感謝在成功高中三年來影響我最深，總是盡力幫助我的班導
+2. 希望他能成為老師帶資優班的優良工具
+3. 模擬並記錄身為數學老師的班導特殊的排座位方式: Old Fashioned Way
+
 ## Author and contact information
 - Name: 洪宇辰 Chris
 - Email: hyuchen869@gmail.com
