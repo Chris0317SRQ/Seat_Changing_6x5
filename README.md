@@ -5,6 +5,7 @@
 1. 感謝在成功高中三年來影響我最深，總是盡力幫助我的班導
 2. 希望他能成為老師帶資優班的優良工具
 3. 模擬並記錄身為數學老師的班導特殊的排座位方式: Old Fashioned Way
+4. 利用高二時特克學到的Processing程式繪圖工具及Kibo RPC學到的java程式語言技能完成事情
 
 ## Author and contact information
 - Name: 洪宇辰 Chris
